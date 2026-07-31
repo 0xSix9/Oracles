@@ -1,5 +1,4 @@
 # Oracles
-Oracles and Chainlink: A Practical Guide for Smart Contract Developers
 # Oracles and Chainlink: A Practical Guide for Smart Contract Developers
 
 ## What is an oracle, and why does a smart contract need one?
